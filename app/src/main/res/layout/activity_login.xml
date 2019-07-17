@@ -56,5 +56,5 @@
         android:textColor="@color/darkBrown"
         android:textSize="24sp"
         android:layout_margin="8dp"
-        android:onClick="onCloclCreateOrder"/>
+        android:onClick="onClickCreateOrder"/>
 </LinearLayout>

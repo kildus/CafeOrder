@@ -21,7 +21,7 @@ public class LoginActivity extends AppCompatActivity {
         editTextPassword = findViewById(R.id.editTextPassword);
     }
 
-    public void onCloclCreateOrder(View view) {
+    public void onClickCreateOrder(View view) {
 
         String name = editTextName.getText().toString().trim();
         String password = editTextPassword.getText().toString().trim();
